@@ -1,4 +1,4 @@
-=Poker CUDA Equity Simulator=
+# Poker CUDA Equity Simulator
 
 This is a small library that uses CUDA to simulate Texas Hold'Em poker equity. There is also a
 hand evaluator that processes a hand of 7 cards and returns a numeric value which can be used to 
